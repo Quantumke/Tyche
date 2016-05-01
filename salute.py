@@ -1,6 +1,6 @@
 from slackclient import SlackClient 
 import time
-api_token= "xoxb-37407461829-eBlHTfhJU6ZoO8vi3Y5u7hnc"
+api_token= ""
 channel_name="sandbox"
 
 class Salute():

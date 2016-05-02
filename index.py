@@ -2,7 +2,7 @@ from slackclient import SlackClient
 import time
 
 api_token= ""
-channel_name="sandbox"
+channel_name=""
 
 
 

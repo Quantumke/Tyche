@@ -9,7 +9,7 @@ class Intro():
 	def get_credentials (fetch_data):
 		credentials ={}
 		credentials['api_token']=""
-		credentials['channel_name']="sandbox"
+		credentials['channel_name']=""
 		return credentials
 if __name__=='__main__':
 	run()
